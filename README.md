@@ -7,6 +7,10 @@
 
 University of Bonn, PhenoRob
 
+---
+**Note:** We have developped a new, anisotropic version that achieves similar compression but preserves details much better, see [this repository](https://github.com/moritzheep/anisotropic-screen-meshing).
+---
+
 # Getting Started
 To clone the repository with all its submodules run
 ```Shell
